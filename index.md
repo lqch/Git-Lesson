@@ -3,11 +3,11 @@
 3-4 October 2022
 
 ## About using git and github
--Organising work of your own and with others
+Organising work of your own and with others
 
-Git allows you to save your work at important points in time
-Github is for sharing work
-Gitkraken is GUI for git
+- Git allows you to save your work at important points in time
+- Github is for sharing work
+- Gitkraken is GUI for git
 
 ## Structure of github repository
 - readme.md (markdown)
