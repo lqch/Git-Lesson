@@ -1,6 +1,8 @@
 # lqch's notes from Git, Github and Gitkraken
 
-3-4 October 2022
+3-4 October 2022 
+
+Notes from the course are on the [website](https://srse-git-github-zero2hero.netlify.app)
 
 ## About using git and github
 Organising work of your own and with others
