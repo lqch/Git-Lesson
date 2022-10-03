@@ -17,3 +17,15 @@
 * Push to github
 
 And add more text to file and stage it again.
+
+## Shopping list
+
+* Bread
+* Marmite
+* Margarine
+* cheese
+
+## Don't forget to 
+
+* Feed the cat
+* Buy cat food
