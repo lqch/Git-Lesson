@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # lqch's notes from Git, Github and Gitkraken
 
 3-4 October 2022 
